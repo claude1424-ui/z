@@ -1,1 +1,1 @@
-$contenuDuFichier = Get-Content -Path "aa.txt" -Raw; Invoke-Expression -Command $contenuDuFichier
+$contenuDuFichier = Get-Content -Path "a.txt" -Raw; Invoke-Expression -Command $contenuDuFichier
